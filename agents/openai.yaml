@@ -1,0 +1,4 @@
+interface:
+  display_name: "15 分钟论文导读"
+  short_description: "从零基础出发，用生活例子、英文术语和关键公式逐步读懂论文"
+  default_prompt: "请用 $paper-walkthrough 带我用约 15 分钟从零基础读懂这篇论文，逐步解释术语，保留重要英文原文，并用例子说明核心方法。"
